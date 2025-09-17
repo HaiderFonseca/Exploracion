@@ -1,0 +1,21 @@
+﻿Nombre estación,Sigla,Lat,Long,Latitud,Longitud,Altitud (m),Altura (m),Localidad,Tipo de zona,Tipo de estación,Dirección,PM10,PM2.5,O_,NO_,CO,SO2,BC,V. Viento,D. Viento,Temperatura,Precipitación,R.solar,H. Relativa,Presión atmósferica
+Guaymaral,GYR,4.78374,-74.04379,"4°47'01.5""N","74°02'38.9""W",2580,0,Suba,Sub urbana,De fondo,Autopista Norte # 205-59,x,x,x,x,x,x,,x,x,x,x,x,x,x
+Usaquen,USQ,4.71036,-74.03041,"4°42'37.26""N","74°1'49.50""W",2570,10,Usaquén,Urbana,De fondo,Carrera 7B Bis # 132-11,x,x,x,x,x,x,,x,x,x,,,,x
+Suba,SUB,4.76128,-74.09356,"4°45'40.49""N","74° 5'36.46""W",2571,6,Suba,Sub urbana,De fondo,Carrera 111 # 159A-61,x,x,x,x,x,x,,x,x,x,,,,x
+Bolivia,BOL,4.73589,-74.12589,"4°44'08.9""N","74°07'33.2""W",2574,0,Engativá,Sub urbana,De fondo,Avenida Calle 80 # 121-98,x,x,x,x,x,x,,x,x,x,,,,x
+Las Ferias,LFR,4.69074,-74.08247,"4°41'26.52""N","74°4'56.94""W",2552,0,Engativá,Urbana,De tráfico,Avenida Calle 80 # 69Q-50,x,x,x,x,x,x,x,x,x,x,,x,x,x
+Centro de Alto Rendimiento,CDAR,4.65849,-74.08396,"4°39'30.48""N","74°5'2.28""W",2552,0,Engativá,Urbana,De tráfico,Calle 63 # 59A-06,x,x,x,x,x,x,x,x,x,x,x,x,,x
+Movil 7ma,MOV1,4.64542,-74.06157,"4°38'42.7""N","74°03'41.6""W",2583,0,Chapinero,Urbana,De tráfico,Carrera 7 con calle 60,x,x,,x,x,x,,x,x,x,x,x,x,x
+MinAmbiente,MAM,4.62555,-74.06686,"4°37'31.75""N","74°4'1.13""W",2621,15,Santa Fe,Urbana,De tráfico,Calle 37 # 8-40,x,x,x,x,x,x,x,x,,x,,,,x
+Fontibon,FTB,4.6701,-74.14156,"4°40'41.67""N","74°8'37.75""W",2551,11,Fontibón,Urbana,De tráfico,Carrera 104 # 20 C - 31,x,x,x,x,x,x,x,x,,x,,,,x
+Puente Aranda,PTE,4.63185,-74.11746,"4°37'54.36""N","74°7'2.94""W",2590,10,Puente Aranda,Urbana,Industrial,Calle 10 # 65-28,x,x,x,x,x,x,,x,x,x,,,,x
+Kennedy,KEN,4.62508,-74.16132,"4°37'30.18""N","74°9'40.80""W",2580,3,Kennedy,Urbana,De fondo,Carrera 80 # 40-55 sur,x,x,x,x,x,x,x,x,x,x,x,x,,x
+Carvajal - Sevillana,CSE,4.59567,-74.1486,"4°35'45.0""N","74°08'54.6""W",2563,3,Kennedy,Urbana,Tráfico/industrial,Autopista Sur # 63-40,x,x,x,x,x,x,x,x,x,x,,,,x
+Tunal,TUN,4.57676,-74.13066,"4°34'34.41""N","74°7'51.44""W",2589,0,Tunjuelito,Urbana,De fondo,Carrera 24 # 49-86 sur,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+San Cristobal,SCR,4.5727,-74.08378,"4°34'21.19""N","74°5'1.73""W",2688,0,San Cristóbal,Urbana,De fondo,Carrera 2 Este # 12-78 sur,x,x,x,x,x,x,x,x,x,x,x,x,,x
+Jazmin,JAZ,4.60872,-74.11492,"4°36'30.6""N","74°06'53.8""W",2559,0,Puente Aranda,Urbana,Residencial,Calle 1 G # 41 A 39,x,x,x,x,x,x,,x,x,x,,x,x,x
+Usme,USM,4.53229,-74.11719,"4°31'55.4""N","74°07'01.7""W",2593,0,Usme,Urbana,Residencial,Carrera 11 # 65 D 50 Sur,x,x,x,x,x,x,,x,x,x,,x,x,x
+Bosa,BOS,4.60587,-74.20409,"4°36'20.2""N","74°12'14.6""W",2546,0,Bosa,Urbana,De fondo,Diagonal 73 F Sur # 78 - 44,x,x,x,x,x,x,,x,x,x,,x,x,x
+Ciudad Bolivar,CBV,4.57801,-74.16627,"4°34'40.1""N","74°09'58.6""W",2661,0,Ciudad Bolívar,Urbana,Residencial,Calle 70 Sur # 56 - 11,x,x,x,x,x,x,,x,x,x,,x,x,x
+Colina,COL,4.73748,-74.06947,"4°44'13.9""N","74°04'10.1""W",2555,0,Suba,Urbana,De fondo,Avenida Boyacá No 142ª-55,x,x,x,x,x,x,,x,x,x,,x,x,x
+Movil Fontibon,MOV2,4.66824,-74.1485,"4°40'04.8""N","74°08'54.6""W",2547,0,Fontibón,Urbana,Tráfico/industrial,Cra. 98 #16 B 50,x,x,x,x,x,x,,x,x,x,,x,x,x
